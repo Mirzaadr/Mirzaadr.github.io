@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Pages"
-date:   2026-07-01 13:48:50 +0000
-categories: update
+date:   2026-06-25 12:00:00 +0000
+categories: updates
 ---
 
 you can find my other pages here
