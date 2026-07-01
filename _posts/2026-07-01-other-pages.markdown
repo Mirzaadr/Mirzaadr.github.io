@@ -6,4 +6,6 @@ categories: update
 ---
 
 you can find my other pages here
-- [Portfolio](mirzaadr.github.io/portfolio)
+- [Portfolio Web][portfolio]
+
+[portfolio-web]: mirzaadr.github.io/portfolio
